@@ -1,48 +1,16 @@
-# 🎓 Student Management Mobile Application (Flutter)
+# student_management
 
-A Flutter-based Student Management mobile application that performs complete **CRUD operations** with **offline data persistence** using SQLite. Designed with a clean, responsive Material UI for Android devices.
+A new Flutter project.
 
----
+## Getting Started
 
-## 📱 Features
-- Add, update, delete, and view student records
-- Offline data storage using SQLite
-- Search functionality for quick access
-- Clean and responsive Material UI
-- Optimized for Android devices
-- Native integrations:
-  - Phone calling
-  - Email support
+This project is a starting point for a Flutter application.
 
----
+A few resources to get you started if this is your first Flutter project:
 
-## 🛠 Tech Stack
-- **Flutter**
-- **Dart**
-- **SQLite**
-- **Material Design**
-- **url_launcher**
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
----
-
-## 🚀 Functionalities
-- Complete CRUD operations
-- Offline-first architecture
-- FutureBuilder for efficient UI updates
-- Smooth navigation and user-friendly layout
-
----
-
-## 📸 Screenshots
-
----
-
-## 🧑‍💻 Developed By
-**Salman Shaikh**  
-📍 Mumbai, India  
-🔗 [GitHub](https://github.com/your-username)  
-🔗 [LinkedIn](https://www.linkedin.com/in/shaikh-salman-baa1293a3)
-
----
-
-⭐ If you like this project, give it a star!
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
